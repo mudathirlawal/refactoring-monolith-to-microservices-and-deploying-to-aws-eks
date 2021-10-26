@@ -69,6 +69,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
+.sh
 .env
 .env.test
 
@@ -98,7 +99,7 @@ dist
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/
+.s.dynamodb/
 
 # TernJS port file
 .tern-port
